@@ -1,0 +1,2 @@
+export const ADD_TO_CART_LOG = "ADD_TO_CART_LOG";
+export const DELETE_TO_CART_LOG = "DELETE_TO_CART_LOG";
